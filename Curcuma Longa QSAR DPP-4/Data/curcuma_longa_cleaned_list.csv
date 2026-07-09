@@ -1,0 +1,634 @@
+CID,Name
+126,4-Hydroxybenzaldehyde
+135,4-Hydroxybenzoic Acid
+206,Hexose
+239,Beta-Alanine
+240,Benzaldehyde
+241,Benzene
+247,Betaine
+305,Choline
+322,4-Coumaric acid
+323,Coumarin
+332,4-Vinylguaiacol
+379,Octanoic Acid
+709,3-(4-Hydroxy-3-Methoxyphenyl)Prop-2-Enoic Acid
+892,An inositol
+938,Nicotinic Acid
+985,Palmitic Acid
+996,Phenol
+1054,Pyridoxine
+1110,Succinic Acid
+1115,Hex-2-ulofuranosyl hexopyranoside
+1130,Thiamine
+1140,Toluene
+1183,Vanillin
+2537,Camphor
+2758,"1,8-Cineole"
+2889,"1,7-Bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione"
+2969,Decanoic Acid
+3314,Eugenol
+3327,a Farnesol
+3893,Lauric Acid
+4668,9-Hexadecenoic acid
+5281,Stearic Acid
+5725,"2,6,9,9-Tetramethylcycloundeca-2,6,10-trien-1-one"
+5988,Sucrose
+5991,Ethinylestradiol
+6037,CID 6037
+6448,"Acetic acid 1,7,7-trimethyl-bicyclo(2.2.1)hept-2-yl ester"
+6549,Linalool
+6616,Camphene
+6654,(+-)-alpha-Pinene
+7150,Methyl Benzoate
+7361,Furfuryl Alcohol
+7439,"Carvone, (+-)-"
+7460,alpha-PHELLANDRENE
+7461,Gamma-Terpinene
+7462,Alpha-Terpinene
+7463,P-Cymene
+7500,Ethylbenzene
+7780,"3,7-Dimethylocta-2,6-dienyl acetate"
+7793,"Beta-citronellol, (S)-"
+7794,Citronellal
+7892,2-Methylpentane
+8078,Cyclohexane
+8129,Heptanol
+8163,2-Undecanone
+8175,Decanal
+8215,Docosanoic Acid
+8468,Vanillic Acid
+8842,Citronellol
+8843,"3,7-Dimethylocta-2,6-Dienal"
+8888,"3,7,11-Trimethyldodeca-1,6,10-trien-3-ol"
+9017,Citronellyl Acetate
+9250,Cyclobutane
+9253,Cyclopentane
+10049,Npc189036
+10050,"Camphor, (1S)-"
+10123,"2-Isopropenyl-4a,8-dimethyl-1,2,3,4,4a,5,6,8a-octahydronaphthalene"
+10128,2-Pinanol
+10251,Flavanone
+10353,p-MENTHAN-8-OL
+10364,Carvacrol
+10403,Cyclooctanone
+10407,"7,11-Dimethyl-3-methylene-1,6,10-dodecatriene"
+10465,Heptadecanoic Acid
+10467,Eicosanoic Acid
+10492,"(1R,2S,4S)-1,7,7-trimethylbicyclo(2.2.1)heptan-2-ol"
+10534,"Norbornane, 2-methyl-3-methylene-2-(4-methyl-3-pentenyl)-"
+10586,"alpha,4-Dimethyl-alpha-(4-methyl-3-penten-1-yl)-3-cyclohexene-1-methanol"
+10695,"1,2,3,5-Tetramethylbenzene"
+10817,"p,alpha-DIMETHYLBENZYL ALCOHOL"
+11005,Myristic Acid
+11142,Beta-Phellandrene
+11197,Tetracosanoic Acid
+11230,Terpinen-4-ol
+11313,Congo red
+11314,"3,3'-((1,1'-Biphenyl)-4,4'-diylbis(2,1-diazenediyl))bis(4-amino-1-naphthalenesulfonic acid)"
+11339,Docusate
+11463,Terpinolene
+12367,2-Nonanol
+12741,2-Decanone
+13849,Pentadecanoic Acid
+14145,Dichlofluanid
+14257,Undecane
+14296,Tetramethylpyrazine
+14340,Dihydroferulic Acid
+14350,"4,12,12-Trimethyl-9-methylene-5-oxatricyclo(8.2.0.04,6)dodecane"
+14529,p-Cymen-8-ol
+14896,Beta-Pinene
+14985,Vitamin E
+15068,2-Hydroxy-5-methylacetophenone
+15910,Chlorothalonil
+16724,"Carvone, (+)-"
+17085,Tricosanoic Acid
+17100,Alpha-Terpineol
+17868,alpha-Thujene
+18818,Sabinene
+19725,"1,3-Dimethyl-8-(1-methylethyl)tricyclo(4.4.0.02,7)dec-3-ene"
+22311,1-Methyl-4-Prop-1-En-2-Ylcyclohexene
+23204,"2,6,6,9-Tetramethylcycloundeca-1,4,8-triene"
+23953,Silane
+26049,3-Carene
+26318,"4,11,11-Trimethyl-8-methylenebicyclo(7.2.0)undec-4-ene"
+26479,"Carbamic acid, methyl-, 3-(dimethylamino)-p-tolyl ester"
+27208,4-Methyl-1-(6-methylhept-5-en-2-yl)cyclohex-3-en-1-ol
+29025,"4,6,6-Trimethylbicyclo(3.1.1)hept-3-en-2-one"
+31138,2-Methyl-2-hepten-4-one
+31253,Myrcene
+31263,Propionic anhydride
+36314,Paclitaxel
+41520,"3,4,5-Trimethyl-2-cyclopenten-1-one"
+61060,Npc152989
+61126,Verbenol
+61130,Myrtenal
+61262,"(6,6-Dimethylbicyclo(3.1.1)hept-2-en-2-yl)methyl acetate"
+61416,Citronellyl valerate
+61990,3-Heptyldihydro-5-methyl-2(3H)-furanone
+62346,gamma-Bisabolene
+62367,2-Methyl-5-(1-methylethyl)bicyclo(3.1.0)hexan-2-ol
+64685,Borneol
+64689,Beta-D-Glucose
+65724,"Verbenone, (A+-)-"
+66308,D-Arabinose
+67179,"Linalool, (+)-"
+68128,(R)-beta-bisabolene
+68346,Artemisia ketone
+74201,2-Methoxypyridine
+75427,"6-Octenal, 3,7-dimethyl-, (3R)-"
+79035,Tricyclene
+82227,"alpha-Pinene, (+)-"
+86608,alpha-Bergamotene
+86609,"3,7-Dimethyl-4-(propan-2-yl)-3a,3b,4,5,6,7-hexahydro-1H-cyclopenta(1,3)cyclopropa(1,2)benzene"
+86821,"17-(5-ethyl-6-methylheptan-2-yl)-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta(a)phenanthren-3-ol"
+87529,cis-beta-Copaene
+89316,"Cyclohexene, 4-ethenyl-4-methyl-3-(1-methylethenyl)-1-(1-methylethyl)-, (3R-trans)-"
+91104,"8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene"
+91354,"1H-Cycloprop(e)azulene, decahydro-1,1,7-trimethyl-4-methylene-, (1aR-(1aalpha,4abeta,7alpha,7abeta,7balpha))-"
+92138,Elemol
+92139,Curcumene
+92221,D-Camphene
+92231,Spathulenol
+92729,(+)-gamma-Tocopherol
+92776,(-)-Zingiberene
+92874,Levoverbenone
+93009,"Bornyl acetate, (-)-"
+93135,Xanthorrhizol
+94147,Sabinol
+94164,alpha-Santalene
+94254,Elixene
+98037,"1,2-Hexadecanediol"
+98497,"3-Cyclopentene-1-acetaldehyde, 2,2,3-trimethyl-"
+101708,"1,2,4a,5,6,8a-Hexahydro-4,7-dimethyl-1-(1-methylethyl)naphthalene"
+101731,beta-Patchoulene
+101977,"beta-CITRONELLOL, (R)-"
+102667,"Pinocarveol, (+-)-"
+111037,alpha-Terpinyl acetate
+117769,Heptadecaenoic acid
+119389,Octanoate
+119831,Cedrenol
+121719,Pinocarvone
+122836,5-Methyl-2-(6-methylhept-5-en-2-yl)phenol
+124072,Tetrahydrocurcumin
+133145,Yakuchinone A
+138275,"1,4-Cyclohex-2-enedione"
+138647,"1,3-Dicyclopentylcyclopentane"
+138811,"Pentacosane, 13-cyclohexyl-"
+146723,"1-(4-Hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)-1,6-heptadiene-3,5-dione"
+147439,"1,7-Bis(4-hydroxyphenyl)-1,6-Heptadiene-3,5-dione"
+153845,Curcumenone
+156118,(+)-Curcuphenol
+156709,Tetramethylpyrazine hydrochloride
+159055,D-Camphor
+160512,(+)-Turmerone
+160771,"(3s,5s,6s,8As)-3-methyl-8-methylidene-5-(propan-2-yl)octahydro-6h-3a,6-epoxyazulen-6-ol"
+161491,Methylarsonous acid
+167812,Curcumenol
+176983,"p-Mentha-1,3,8-triene"
+177131,Polycyclic Sesquiterpenes
+177751,"7,8-Dihydro-8,8-dimethyl-2H,6H-benzo(1,2-b:5,4-b')dipyran-2,6-dione"
+179413,"3,6,10-trimethyl-8,11-dihydro-7H-cyclodeca[b]furan-4-one"
+189061,Procurcumenol
+196216,beta-Turmerone
+220076,trans-Pinan-2-ol
+222284,(-)-beta-Sitosterol
+226036,Npc37409
+230920,Exoborneol
+236409,1-Cyclohexyl-3-cyclopentylpropane
+329983,Menthofuran
+341779,Sesquicineole
+360253,Curcuphenol
+381152,Piperitenone
+387977,"(3S,3aS,6R,8aS)-3,8-Dimethyl-5-(propan-2-ylidene)-2,3,4,5,6,8a-hexahydro-1H-3a,6-epoxyazulen-6-ol"
+390474,"1-(3,4-Dihydroxyphenyl)-7-(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+403919,"1-Methyl-4-(6-Methylhepta-1,5-Dien-2-Yl)Cyclohexene"
+439250,"Limonene, (-)-"
+439568,Npc308218
+439569,Npc196490
+439570,"Carvone, (-)-"
+440917,(+)-Limonene
+440966,(-)-Camphene
+442015,Tinosporin
+442343,Levomenol
+442360,(-)-alpha-Curcumene
+442393,Beta-Selinene
+442460,"(1S,2R,4S)-(-)-Bornyl acetate"
+442461,(-)-3-Carene
+442478,(+)-Menthofuran
+442501,(+)-alpha-Terpineol
+442783,"1,4,6-Heptatrien-3-one, 5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-"
+443131,"(1R,2S,4R)-(+)-Bornyl acetate"
+443156,(+)-3-Carene
+443157,(S)-(-)-Citronellal
+443158,(-)-Linalool
+443160,(+)-alpha-Phellandrene
+443162,(L)-alpha-terpineol
+444294,"Camphor, (-)-"
+444899,Arachidonic Acid
+445070,Farnesol
+445638,Palmitoleic Acid
+445639,Oleic Acid
+445858,Ferulic Acid
+468133,"1,5-Bis(4-hydroxy-3-methoxyphenyl)penta-1,4-dien-3-one"
+468139,"1,4,6-Heptatrien-3-one, 5-hydroxy-1,7-bis(4-hydroxyphenyl)-"
+493570,Riboflavin
+512289,Npc219400
+518796,"6,10-Dimethyl-3-propan-2-ylcyclodec-6-ene-1,4-dione"
+519361,7-Isopropenyl-4a-methyl-1-methylenedecahydronaphthalene
+519662,Cadin-4-en-10-ol
+519762,4-Isopropenyl-5-methyl-2-(1-methylethylidene)-5-vinylcyclohexanone
+519764,Sesquiphellandrene
+519857,"1-Isopropyl-4,7-dimethyl-1,3,4,5,6,8a-hexahydro-4a(2H)-naphthalenol"
+519960,Cyclosativene
+520468,2-Methyl-5-(6-methylhept-5-en-2-yl)phenol
+521207,Cedrene
+521253,"2-Methyl-5-(6-methylhept-5-en-2-yl)cyclohexa-1,3-diene"
+521710,alpha-Patchoulene
+522266,beta-Spathulenol
+534856,"1,2-Longidione"
+535296,Longipinocarvone
+540009,"1,5,9-Trimethyl-11,14,15-trioxatetracyclo[10.2.1.04,13.08,13]pentadecan-10-one"
+546952,"N,N-Dimethyl-2-cyclohexyloxyethylamine"
+547972,2-(4-Ethenyl-4-methyl-3-(prop-1-en-2-yl)cyclohexyl)propan-2-ol
+550361,"2-Cyclohexen-1-one, 4-(1,5-dimethyl-4-hexenyl)-"
+558173,Npc160122
+558221,2-Methyl-6-(4-methylphenyl)hept-2-en-4-one
+563197,Cycloisolongifolene
+576612,"1-(3-Cyclopentylpropyl)-2,4-dimethylbenzene"
+576929,1-Ethyl-4-isobutylbenzene
+578305,"2-(4,7-Dimethyl-1,2,3,4,4a,5,6,8a-octahydronaphthalen-1-yl)prop-2-enoic acid"
+579897,b-Sitostenone
+580360,"2-Pyrazoline, 1-isopropyl-3,4-dimethyl-"
+586427,"5-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-4,6-heptadiene-3-one"
+615367,Npc215743
+636458,Isofuranodiene
+637429,Calebin A
+637517,Elaidic Acid
+637542,P-Coumaric Acid
+637566,Geraniol
+638011,Citral
+641645,CID 641645
+643779,Neral
+643820,Nerol
+657014,Npc284731
+689043,Caffeic Acid
+699414,4-Methoxycinnamic Acid
+853433,Isoeugenol
+969516,Curcumin
+1201518,"Borneol, (-)-"
+1201529,"Myrtenal, (A+-)-"
+1201530,"Pinocarveol, trans-(-)-"
+1549025,Neryl acetate
+1549026,Geranyl Acetate
+1549040,cis-Anethole
+1549107,"Farnesol, (2Z,6Z)-"
+1549109,"(E,Z)-Farnesol"
+1549992,Bisabolol
+1550234,Cyqualon
+1742210,Caryophyllene oxide
+1742211,"(1R,4R,5R,9S)-4,5-epoxycaryophyllan-8(13)-ene"
+2724161,"4-Terpineol, (+)-"
+2734021,Npc197942
+3033866,"gamma-Bisabolene, (Z)-"
+3035221,Icos-2-enoic acid
+3081930,Curzerenone
+3083803,Dehydrodeguelin
+3559861,"(3S,3aS,5S,6R,8aS)-5-isopropyl-3-methyl-8-methyleneoctahydro-6H-3a,6-epoxyazulen-6-ol"
+5280343,Quercetin
+5280450,Linoleic Acid
+5280483,Vitamin K
+5280536,Coniferaldehyde
+5280794,Stigmasterol
+5280934,Linolenic Acid
+5281515,(-)-Caryophyllene
+5281516,Farnesene
+5281517,beta-Farnesene
+5281519,Germacrene B
+5281520,Humulene
+5281522,(-)-Isocaryophyllene
+5281525,"(3S,6E)-Nerolidol"
+5281531,alpha-Santal-10-en-12-ol
+5281553,"beta-OCIMENE, (3E)-"
+5281672,Myricetin
+5281767,"(1E,4Z,6E)-5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one"
+5281861,Turricolol E
+5282745,Palmitelaidic acid
+5282747,2-Heptadecenoic acid
+5282768,cis-11-Eicosenoic acid
+5284507,Nerolidol
+5315469,Bisacumol
+5315472,Bisdemethoxycurcumin
+5316213,"1-Methyl-4-(6-methylhept-6-en-2-yl)cyclohexa-1,4-diene"
+5316216,"(6E)-6,10-dimethyl-3-propan-2-ylcyclodec-6-ene-1,4-dione"
+5316217,"(6S)-6-ethenyl-3,6-dimethyl-5-prop-1-en-2-yl-5,7-dihydro-4H-1-benzofuran"
+5317319,"beta-Farnesene, (6Z)-"
+5317425,Isofuranodienone
+5317570,Germacrene D
+5318039,Hexahydrocurcumin
+5319444,"6-[(1R,5S)-5-hydroxy-4-methoxy-4-methylcyclohex-2-en-1-yl]-2-methylhept-2-en-4-one"
+5319445,3-Hydroxy-7-methoxy-5-methyl-8-propan-2-ylnaphthalene-2-carbaldehyde
+5320128,"1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, [S-(Z)]-"
+5320250,"beta-Ocimene, (3Z)-"
+5322111,"(4Z)-4,11,11-trimethyl-8-methylidenebicyclo(7.2.0)undec-4-ene"
+5324470,Syn-benzaldehyde oxime
+5324473,"(1E,4Z,6E)-5-Hydroxy-1,7-Bis(4-Hydroxyphenyl)Hepta-1,4,6-Trien-3-One"
+5324476,"(1E,4Z,6E)-1-(4-Hydroxyphenyl)-5-hydroxy-7-(3-methoxy-4-hydroxyphenyl)-1,4,6-heptatriene-3-one"
+5325830,"4-Terpineol, (-)-"
+5352437,"gamma-BISABOLENE, (E)-"
+5352479,1-methyl-4-[(E)-6-methylhept-4-en-2-yl]benzene
+5352653,(Z)-alpha-Bisabolene
+5354238,Dehydrozingerone
+5354499,"Caryophyllene,alpha + beta mixt."
+5356544,Peruviol
+5362828,"Germacr-1(10)-ene-5,8-dione"
+5364494,"3-Hexadecene, (3Z)-"
+5368797,d-alpha-Santalol
+5372374,"(4Z,6E)-5-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-4,6-heptadien-3-one"
+5373727,"1,6-Cyclodecadiene, 1-methyl-5-methylene-8-(1-methylethyl)-"
+5379348,
+5379611,
+5469252,4-((Z)-2-(3-Methoxyphenyl)Ethenyl)Phenol
+5469424,Demethoxycurcumin
+5469426,Demethylcurcumin
+5470187,Zerumbone
+5484202,Stigmast-4-en-3-one
+5809667,
+5809936,
+5858445,
+5876571,
+6321405,Isoborneol
+6365122,"2-Methyl-6-(4-methyl-3-cyclohexen-1-yl)hepta-2,5-dien-4-one"
+6428435,"(2R,5S)-2-methyl-5-(6-methylhept-5-en-2-yl)bicyclo(3.1.0)hexan-2-ol"
+6428461,"1-(1,5-Dimethyl-4-hexen-1-yl)-4-methyl-1,4-cyclohexadiene"
+6428986,Npc195717
+6429032,Npc49026
+6429301,(Z)-caryophyllene
+6429303,alpha-CIS-BERGAMOTENE
+6429340,2-Methyl-6-(4-methylcyclohex-3-en-1-yl)heptan-3-one
+6430549,cis-beta-Santalene
+6431015,(-)-Cedrene
+6431302,Npc57877
+6432221,Npc131769
+6432312,"Gamma-elemene, (+)-"
+6432404,gamma-Cadinene
+6432640,"1H-Cycloprop(e)azulen-7-ol, decahydro-1,1,7-trimethyl-4-methylene-, (1ar-(1aalpha,4aalpha,7beta,7abeta,7balpha))-"
+6432706,Npc143639
+6436348,Germacrone
+6436582,"(1E,6E)-1-methyl-5-methylidene-8-(propan-2-yl)cyclodeca-1,6-diene"
+6438157,trans-2-Icosenoic acid
+6440365,Yakuchinone B
+6441391,"(3S,10S)-3-Isopropyl-6,10-Dimethylcyclodec-6-Ene-1,4-Dione"
+6442374,Furanodienon
+6445487,Npc177377
+6474893,"1,5-Bis(4-Hydroxy-3-Methoxyphenyl)-1,4-Pentadien-3-One"
+6506548,Furanodienone
+6552009,D-Borneol
+6604672,beta-Caryophyllene epoxide
+6789251,
+6797604,
+6850744,Npc14682
+6918391,Beta-Elemene
+6950274,(+)-Borneol acetate
+6973640,(+)-Isoborneol
+6993963,"1-p-Tolylethanol, (-)-"
+7168192,(-)-Menthofuran
+9543187,Npc54264
+9548703,Guaiane
+9796015,[6]-Dehydrogingerdione
+9796432,Labdadienedial
+9796708,"1,7-Bis(4-Hydroxyphenyl)-1-Heptene-3,5-Dione"
+9796792,Tetrahydrobisdemethoxycurcumin
+9815837,(+)-I2-Turmerone
+9841508,[(E)-4-(4-hydroxy-3-methoxyphenyl)-2-oxobut-3-enyl] (E)-3-(4-hydroxyphenyl)prop-2-enoate
+9859094,"Cyclohexane, 1-ethenyl-1-methyl-2,4-bis(1-methylethenyl)-, (1R,2R,4S)-"
+9952605,Dimethoxycurcumin
+9971144,Coronarin E
+10012081,"(1R,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-one"
+10104370,Beta-Bisabolene
+10250249,5'-Methoxycurcumin
+10263440,Epiprocurcumenol
+10396829,CID 10396829
+10421034,(6R)-3-methyl-6-((2S)-6-methylhept-5-en-2-yl)cyclohex-2-en-1-one
+10421549,Dehydrocurdione
+10429233,Dihydrocurcumin
+10441698,1-deuterio-2-phenyl(113C)ethanone
+10447050,"1,7-Bis(4-Hydroxyphenyl)-1,4,6-Heptatrien-3-One"
+10469828,"(1E,4E)-1-(4-Hydroxy-3-methoxyphenyl)-5-(4-hydroxyphenyl)-1,4-pentadien-3-one"
+10614892,"1,7-Bis(4-hydroxyphenyl)-3-hydroxy-1,3-heptadien-5-one"
+10704181,(-)-Humulene epoxide II
+10887971,(+)-Sabinene
+10899740,Alloaromadendrene
+10904292,"1,7-Bis(4-Hydroxy-3-Methoxyphenyl)-1,4,6-Heptatrien-3-One"
+10955018,beta-Elemenone
+10955433,"Turmeronol B, (A+-)-"
+11051711,(-)-Sabinene
+11062333,phenylmethan(18O)ol
+11094753,(S)-(+)-2-Nonanol
+11106485,(+)-beta-Cedrene
+11117927,Turmeronol A
+11127403,Alpha-Zingiberene
+11128245,"(3R,3aS,6R,8aS)-1,2,3,4,5,8a-Hexahydro-3,8-dimethyl-5-(1-methylethylidene)-6H-3a,6-epoxyazulen-6-ol"
+11156616,(S)-(+)-Xanthorrhizol
+11241433,"(alphaR,gammaS)-gamma,4-Dimethyl-alpha-(2-methyl-1-propen-1-yl)benzenepropanol"
+11241545,"(3R,6E)-Nerolidol"
+11252659,Npc283274
+11262180,Methylhydroxycarbene
+11276006,"(6R)-2,2,6-trimethyl-6-(4-methylphenyl)oxane"
+11286536,Nonan-2R-ol
+11356422,(6R)-2-methyl-6-(4-methylphenyl)hept-2-en-4-ol
+11637239,"(1S,10S,E)-6,10-dimethyl-3-(propan-2-ylidene)-11-oxabicyclo[8.1.0]undec-6-en-4-one"
+11736067,Ctk0C7757
+11744854,cis-Sabinene hydrate
+11770338,(6S)-2-Methyl-6-(2-hydroxy-4-methylphenyl)-2-hepten-4-one
+11820691,(+)-alpha-Turmerone
+11953814,L-Octanoylcarnitine
+12223113,L-alpha-Pinene
+12227246,"(3R,6Z)-3,7,11-trimethyl-1,6,10-dodecatrien-3-ol"
+12242815,"(1S,2S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol"
+12242824,"(1R,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol"
+12299866,"(E)-10,11-Dihydro-alpha-atlantone"
+12299867,(Z)-alpha-Atlantone
+12302594,"(1S,2R,5S,7R)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undec-8-ene"
+12304275,"(1S,2S,5S,8S)-2,6-dimethyl-9-propan-2-ylidene-11-oxatricyclo[6.2.1.01,5]undec-6-en-8-ol"
+12305300,Furanoelemene
+12305301,"Benzofuran, 6-ethenyl-4,5,6,7-tetrahydro-3,6-dimethyl-5-isopropenyl-, trans-"
+12306049,(+)-alpha-Muurolene
+12314318,"(1S,3R,5S)-2(10)-Pinen-3-ol"
+12314814,"Cyclohexanone, 5-ethenyl-5-methyl-4-(1-methylethenyl)-2-(1-methylethylidene)-, (4R,5S)-rel-"
+12315160,"Bicyclo[3.1.0]hexan-3-ol, 4-methylene-1-(1-methylethyl)-, [1S-(1alpha,3alpha,5alpha)]-(9CI)"
+12315492,beta-Sesquiphellandrene
+12635160,(-)-Myrtenyl acetate
+13011408,Npc146197
+13213649,Zingiberenol
+13240188,Npc16157
+13347318,"(S)-5-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)heptan-3-one"
+13854255,"Spathulenol, (-)-"
+13888134,"(1E)-7-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-1-heptene-3,5-dione"
+13922653,"(4S,5S)-(+)-Germacrone 4,5-epoxide"
+13970960,(+)-(S)-Dihydro-Ar-Turmerone
+14131980,"[(2S)-3-hydroxy-2-(3-methylbut-2-enoyloxy)propyl] (2Z,4E,11E)-trideca-2,4,11-trienoate"
+14191392,Npc69267
+14240392,(-)-Curcumol
+14258872,"[(2R)-4-oxo-4-[(4E,6E,8E,11E)-trideca-4,6,8,11-tetraenoxy]butan-2-yl] (3R)-3-hydroxybutanoate"
+14287395,"6-(4,5-Dihydroxy-4-methylcyclohex-2-EN-1-YL)-2-methylhept-2-EN-4-one"
+14287397,Bisacurone
+14367555,Turmerone
+14367556,"2-Methyl-6-(4-methyl-1,4-cyclohexadien-1-yl)-2-hepten-4-one"
+14427394,"1,7-Bis(4-hydroxyphenyl)-3,5-heptanediol"
+14543198,"(1S)-7-Isopropylidene-1,2,3,3aalpha,4,5,6,7,8,8abeta-decahydro-1beta-hydroxy-1-methyl-4-methyleneazulen-6-one"
+14632996,alpha-Turmerone
+14632997,Npc239531
+14632998,Isozedoarondiol
+14633002,"(2E)-2-((3E,7E)-4,8-Dimethyl-10-oxo-3,7-cyclodecadien-1-ylidene)propanal"
+14633004,"3-Hydroxybisabola-1,10-dien-9-one"
+14633006,"2,3-Dihydroxybisabola-4,10-diene"
+14633007,6-(5-Hydroxy-4-methoxy-4-methylcyclohex-2-en-1-yl)-2-methylhept-2-en-4-one
+14633009,"5-(6-Methylhept-5-en-2-yl)cyclohex-2-ene-1,4-diol"
+14633012,Procurcumadiol
+14757966,Npc294136
+15228937,beta Farnesene
+16212927,"(+)-Cyclosativene, 99%"
+16213616,(1-~13~C)Tetracosanoic acid
+16743815,6-(4-Hydroxy-3-methylphenyl)-2-methylhept-2-EN-4-one
+16743816,4-[(2S)-6-methyl-4-oxohept-5-en-2-yl]benzaldehyde
+16743817,[(E)-4-(4-hydroxyphenyl)-2-oxobut-3-enyl] (E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate
+16743818,(6S)-6-(4-hydroxyphenyl)-2-methylhept-2-en-4-one
+18502774,SureCN2153783
+18953726,Methanol peroxide
+20055539,Sesquisabinene hydrate
+20375919,CID 20375919
+20488062,Hydron phenoxide
+20831623,(+)-beta-Caryophyllene
+21119906,Cedr-8(15)-en-9-ol
+21598795,"(1S,2S,5S,9S)-2-Methyl-6-methylidene-9-propan-2-yl-11-oxatricyclo[6.2.1.01,5]undecan-8-ol"
+21612892,"5,9-Dimethyldec-8-enoate"
+21637828,"(4Z,6E)-1,5-dihydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-4,6-dien-3-one"
+21724304,Isobisabolene
+21775889,[-]-Isoaromadendrene[V]
+22169126,Pentadecanoate
+22211636,beta-(Z)-Elemenone
+22508511,Npc283692
+22715389,22-Docosanolide
+23425487,"[(E)-[(4aS,8aS)-2-formyl-5,5,8a-trimethyl-4a,6,7,8-tetrahydro-4H-naphthalen-1-ylidene]methyl] acetate"
+23664772,Sodium octanoate
+24771782,(+)-Germacrene D
+24798702,"Cyclohexene, 4-((1Z)-1,5-dimethyl-1,4-hexadienyl)-1-methyl-, (4S)-"
+24834047,Zedoarondiol
+24836956,Neocurdione
+25055438,"(1E,6E)-1-(3,4-dihydroxyphenyl)-7-(4-hydroxyphenyl)hepta-1,6-diene-3,5-dione"
+25202482,Sesquisabinene
+25754115,ent-Isozedoaronediol
+42077474,(4S)-4-(4-methylphenyl)pentan-2-one
+42608155,"(1S,7R)-1-methyl-7-(3-oxobutyl)-4-propan-2-ylidenebicyclo[4.1.0]heptan-3-one"
+42608158,Allo-Aromadendrene
+42626427,(-)-cis-Sabinol
+44582616,"(1E,6E)-1,7-bis(4-acetyl-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+44584667,"(1aR,4aR,7S,7aS,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulene"
+44629981,"(1E,6e)-1-(4-hydroxy-3-methoxyphenyl)-7-(3-methoxy-4-methylphenyl)-1,6-heptadiene-3,5-dione"
+44630107,"(2S,4R)-1,7,7-trimethylbicyclo(2.2.1)heptan-2-ol"
+44630108,Npc126240
+45038803,Desoxyartemisinin
+45108167,"Hydron;2,3,5,6-tetramethylpyrazine;chloride"
+46234793,"Eicosenoic acid, (Z)-"
+49777919,"4-[2,4-Dinitro-5-(2,4,6-trimethylphenoxy)anilino]benzonitrile"
+49796490,"(6E,8S)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene"
+53442582,"1-[3-(Dimethoxymethoxy)-4-hydroxyphenyl]-7-(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+53666293,"(1,7-Bis(4-hydroxyphenyl)-1-heptene-3,5-dione)"
+53727372,(2-Methoxyethyl)silane
+54217771,2-Methyl-6-(trans-4'-methylcyclohexyl)-2-hepten-4-one
+54670067,L-Ascorbic Acid
+54675850,Salicylate
+56927990,7-Epi-sesquithujene
+57336521,"(1S,2S,5S,9R)-2-methyl-6-methylidene-9-propan-2-yl-11-oxatricyclo[6.2.1.01,5]undecan-8-ol"
+57386731,delta-Curcumene
+58766541,"Disodium;2-methoxy-4-[7-(3-methoxy-4-oxidophenyl)-3,5-dioxohepta-1,6-dienyl]phenolate"
+60110176,CID 60110176
+66714850,2-Methylfuran-2-ol
+66844903,"2-((2-((6-Bromohexyl)oxy)ethoxy)methyl)-1,3-dichlorobenzene"
+67159878,Sabinene hydrate isomer
+68548065,"1-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-6-heptene-3,5-dione"
+68738786,"1-(4-Hydroxyphenyl)-7-(3,4-dihydroxyphenyl)-1,6-heptadiene-3,5-dione"
+69879809,Cyclocurcumin
+71346280,"1,4,6-Heptatrien-3-one, 1,7-bis(4-hydroxyphenyl)-, (1E,4E,6E)-"
+71450687,Terpecurcumin F
+71450688,Terpecurcumin C
+71454270,Terpecurcumin D
+71456030,Didemethoxybisabolocurcumin Ether
+71457832,Terpecurcumin A
+71459740,Demethoxybisabolocurcumin Ether
+71459741,Terpecurcumin I
+71459742,Terpecurcumin E
+71459743,Terpecurcumin B
+71461465,Terpecurcumin H
+71463189,Bisabolocurcumin Ether
+71694446,"(3R,5S,8E)-5,9,14-Trimethyl-4,12-dioxatricyclo[9.3.0.03,5]tetradeca-1(11),8,13-trien-2-one"
+73318874,[4-(4-Hydroxyphenyl)-2-oxobut-3-enyl] 3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate
+73818349,"1,5-Dihydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-4,6-heptadiene-3-one"
+74764030,"(1E)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene"
+75094027,"2-[2-(5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl)ethylidene]butanedial"
+78200755,[4-(4-Hydroxy-3-methoxyphenyl)-2-oxobut-3-enyl] 3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate
+85050216,[4-(4-Hydroxy-3-methoxyphenyl)-2-oxobut-3-enyl] 3-(4-hydroxyphenyl)prop-2-enoate
+85152062,"1-(4-Hydroxy-3-methoxyphenyl)-5-(4-hydroxyphenyl)penta-1,4-dien-3-one"
+85206212,"5-Hydroxy-1,7-bis(4-hydroxyphenyl)-4,6-heptadiene-3-one"
+85309552,"1,7-bis(4-Hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one"
+85871309,1-Hex-5-en-2-yl-4-methylbenzene
+87098904,"(1E,6E)-1-(4-hydroxy-5-methoxycyclohexa-1,3-dien-1-yl)-7-(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+90471784,"disodium;2-methoxy-4-[(1Z,6E)-7-(3-methoxy-4-oxidophenyl)-3,5-dioxohepta-1,6-dienyl]phenolate"
+91307775,"3-Hydroxy-1,7-bis-(4-hydroxyphenyl)-6-heptene-1,5-dione"
+91698329,"2-Hepten-4-one, 2-methyl-6-(4-methyl-3-cyclohexen-1-ylidene)-, (6Z)-"
+91698330,Npc134188
+91698350,(S)-3-Methyl-6-((S)-6-methyl-4-oxohept-5-en-2-yl)cyclohex-2-enone
+91723653,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene"
+91746471,Patchoulene
+91746521,"3-((1S)-1,5-Dimethyl-4-hexenyl)-6-methylene-1-cyclohexene, (3R)-"
+91746537,Alloaromadendren
+91746538,Epi-beta-Santalene
+91746596,"(1R,2S,5S,9S)-2-methyl-6-methylidene-9-propan-2-yl-11-oxatricyclo[6.2.1.01,5]undecan-8-ol"
+91746688,(R)-3-Methyl-6-((R)-6-methylhept-5-en-2-yl)cyclohex-2-enone
+91747196,"(6S,7R,10S)-4,10-dimethyl-7-propan-2-yltricyclo[4.4.0.01,5]dec-3-ene"
+91748750,alpha-Aromadendrene
+91753502,Npc215012
+91753540,"(1S,2R)-2-methyl-5-[(2R)-6-methylhept-5-en-2-yl]bicyclo[3.1.0]hexan-2-ol"
+92003564,"(1Z)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene"
+92281781,"(1R,2S,5S,8S)-2,6-dimethyl-9-propan-2-ylidene-11-oxatricyclo[6.2.1.01,5]undec-6-en-8-ol"
+92281783,"(1R,2S,5R,8S)-2,6-Dimethyl-9-propan-2-ylidene-11-oxatricyclo[6.2.1.01,5]undec-6-en-8-ol"
+97289691,"(3R,3aR,8aS)-3-hydroxy-3,8-dimethyl-5-propan-2-ylidene-2,3a,4,8a-tetrahydro-1H-azulen-6-one"
+101286200,"(1S,2S,5S,8R,9R)-2-methyl-6-methylidene-9-propan-2-yl-11-oxatricyclo[6.2.1.01,5]undecan-8-ol"
+101464047,"(4Z,6E)-5-hydroxy-7-(4-hydroxy-3-methoxyphenyl)-1-(4-hydroxyphenyl)hepta-4,6-dien-3-one"
+101695906,Turmeronol
+102056120,"(2E)-2-[(3Z,7Z)-4,8-dimethyl-10-oxocyclodeca-3,7-dien-1-ylidene]propanal"
+102056122,"(3S,3aR)-3,3a-dihydroxy-3,8-dimethyl-5-propan-2-ylidene-1,2,4,8a-tetrahydroazulen-6-one"
+102079805,8-Hydroxy-ar-turmerone
+102165195,"(5S,6S,9R)-9-hydroxy-9-methyl-3-propan-2-ylidene-6-prop-1-en-2-yl-1-oxaspiro[4.4]nonan-2-one"
+102230685,"1-[(3R,6S)-6-hydroxy-6'-[(E)-2-(4-hydroxyphenyl)ethenyl]-3,4',4',7-tetramethylspiro[3,4,4a,5,6,8a-hexahydrochromene-2,2'-3H-pyran]-5'-yl]-3-(4-hydroxyphenyl)propan-1-one"
+102230686,"3-(4-hydroxy-3-methoxyphenyl)-1-[(3R)-6'-[(E)-2-(4-hydroxy-3-methoxyphenyl)ethenyl]-3,4',4',7-tetramethylspiro[3,4,4a,5,6,8a-hexahydrochromene-2,2'-3H-pyran]-5'-yl]propan-1-one"
+102230687,"(2Z,4E)-3-hydroxy-5-(4-hydroxy-3-methoxyphenyl)-1-[(2S,3S,7R)-3-(4-hydroxy-3-methoxyphenyl)-5-methyl-7-(6-methylhept-5-en-2-yl)-2-bicyclo[2.2.2]oct-5-enyl]penta-2,4-dien-1-one"
+102230688,"6-[(2R,7S,8S)-7-[(2Z,4E)-3-hydroxy-5-(4-hydroxy-3-methoxyphenyl)penta-2,4-dienoyl]-8-(4-hydroxy-3-methoxyphenyl)-5-methyl-2-bicyclo[2.2.2]oct-5-enyl]-2-methylhept-2-en-4-one"
+102230689,"(2Z,4E)-3-hydroxy-5-(4-hydroxy-3-methoxyphenyl)-1-[(2R,3R,7R)-3-(4-hydroxy-3-methoxyphenyl)-5-methyl-7-(6-methylhept-5-en-2-yl)-2-bicyclo[2.2.2]oct-5-enyl]penta-2,4-dien-1-one"
+102230690,"(2Z,4E)-3-hydroxy-5-(4-hydroxy-3-methoxyphenyl)-1-[(2R,3R,8R)-3-(4-hydroxy-3-methoxyphenyl)-6-methyl-8-(6-methylhept-5-en-2-yl)-2-bicyclo[2.2.2]oct-5-enyl]penta-2,4-dien-1-one"
+102230691,"(2Z,4E)-3-hydroxy-5-(4-hydroxy-3-methoxyphenyl)-1-[(2S,3S,8R)-3-(4-hydroxy-3-methoxyphenyl)-6-methyl-8-(6-methylhept-5-en-2-yl)-2-bicyclo[2.2.2]oct-5-enyl]penta-2,4-dien-1-one"
+102230692,"(1E,6E)-4-[4,8-dimethyl-6-(2-methylprop-1-enyl)-2-bicyclo[3.3.1]non-3-enyl]-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+102230693,"(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)-4-[(E)-2-methyl-6-(4-methylidenecyclohex-2-en-1-yl)hept-3-en-2-yl]hepta-1,6-diene-3,5-dione"
+102230694,"(1E,4Z,6E)-5-hydroxy-7-[4-[4-hydroxy-3-methyl-6-(6-methylhept-5-en-2-yl)cyclohex-2-en-1-yl]oxyphenyl]-1-(4-hydroxyphenyl)hepta-1,4,6-trien-3-one"
+102230695,
+102230696,"(1E,4Z,6E)-5-hydroxy-7-[4-hydroxy-3-methoxy-5-[3-methyl-6-(6-methylhept-5-en-2-yl)cyclohex-2-en-1-yl]phenyl]-1-(4-hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one"
+102230697,
+102230698,"(1E,4Z,6E)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)-7-[3-methoxy-4-[(2,2,6-trimethyl-1-oxaspiro[2.5]oct-5-en-4-yl)oxy]phenyl]hepta-1,4,6-trien-3-one"
+118314607,"(E)-3-hydroxy-1,7-bis(4-hydroxyphenyl)hept-6-ene-1,5-dione"
+122396785,"3-((6-O-Acetyl-beta-D-galactopyranosyl)oxy)-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-1-benzopyrylium"
+129630417,p-Cumaroylferuloylmethan
+129864072,"1,5-Dihydroxy-1-(4-hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)hepta-4,6-dien-3-one"
+129864102,"1,5-Dihydroxy-1,7-bis(4-hydroxyphenyl)-4,6-heptadiene-3-one"
+129864110,"5-Hydroxy-7-(4-hydroxy-3-methoxyphenyl)-1-(4-hydroxyphenyl)-4,6-heptadiene-3-one"
+131752986,Npc108109
+157009761,(S)-(+)-Curcumene
+162877104,"1,9-Bis(4-hydroxyphenyl)nona-1,6,8-triene-3,5-dione"
+162885404,"(E,7R)-7-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hept-1-ene-3,5-dione"
+162912558,"2-(4,8-Dimethyl-10-oxocyclodeca-3,7-dien-1-ylidene)propanal"
+162936395,"(1S)-1,5-dihydroxy-7-(4-hydroxy-3-methoxyphenyl)-1-(4-hydroxyphenyl)hepta-4,6-dien-3-one"
+162965995,"[(2R)-3-hydroxy-2-[(E)-3-methylsulfanylprop-2-enoyl]oxypropyl] (2Z,4E,11E)-trideca-2,4,11-trienoate"
+163022879,"1-methyl-4-[(2R)-6-methylhept-6-en-2-yl]cyclohexa-1,4-diene"
+163030927,"(1S,6R,7S)-6-methyl-7-(3-oxobutyl)bicyclo[4.1.0]heptan-3-one"
+163103560,"(2S,5S)-5-methyl-2-(4-methylphenyl)heptan-4-one"
+163185226,"(1R,4S,5S)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohex-2-ene-1,4-diol"
+163191279,"(E,7S)-7-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hept-1-ene-3,5-dione"
